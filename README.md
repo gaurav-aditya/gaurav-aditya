@@ -13,7 +13,7 @@
 - 💬 Ask me about **Technical stuff**
 
 - 📫 How to reach me **adityaprakash6986@gmail.com**
--   :https://www.linkedin.com/in/aditya-prakash-42263b218![image](https://user-images.githubusercontent.com/110540811/191749043-58553c97-76dc-4a83-a509-165164800566.png)
+-   :https://www.linkedin.com/in/aditya-prakash-42263b218
 
 
 - ⚡ Fun fact **I love to learn new skills**
