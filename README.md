@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Prakash</h1>
 <h3 align="center">A 3rd year student at NIET Greater Noida in CSE(AI)</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 <h1>
   hey there
@@ -33,6 +33,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 - ⚡ Fun fact **I love to learn new skills**
+
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=gaurav-aditya
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gaurav-aditya&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
