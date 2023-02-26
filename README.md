@@ -40,7 +40,7 @@ I am a Full Stack Developer from India <img src="https://media.giphy.com/media/W
 <!-- https://github-readme-streak-stats.herokuapp.com/?user=gaurav-aditya -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gaurav-aditya&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <!-- https://komarev.com/ghpvc/?username=gaurav-aditya -->
 <img src="https://komarev.com/ghpvc/?username=gaurav-aditya &style=flat-square&color=blue" alt=""/>
