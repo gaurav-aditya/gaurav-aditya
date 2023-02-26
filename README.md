@@ -1,4 +1,10 @@
+
 [![MasterHead](https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif)](https://gaurav-aditya.github.io)
+
+![Hey there, I'm Aditya. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/gaurav-aditya/gaurav-aditya/raw/master/header.gif)
+
+[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/adityagaurav1) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/gaurav-aditya?logo=GitHub&style=for-the-badge)](https://github.com/gaurav-aditya) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/gaurav-aditya?logo=github&style=for-the-badge)](https://github.com/gaurav-aditya) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/gaurav-aditya?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/gaurav-aditya)
+
 <h1 align="center">Hi 👋, I'm Aditya Prakash</h1>
 <h3 align="center">A 3rd year student at NIET Greater Noida in CSE(AI)</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
