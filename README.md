@@ -37,10 +37,6 @@ I am a Full Stack Developer from India <img src="https://media.giphy.com/media/W
 
 - 💬 Ask me about **Technical stuff**
 
-- 📫 
--   
-
-
 - ⚡ Fun fact **I love to learn new skills**
 
 ---
