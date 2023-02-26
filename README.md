@@ -8,11 +8,15 @@
 <h1 align="center">Hi 👋, I'm Aditya Prakash</h1>
 <h3 align="center">A 3rd year student at NIET Greater Noida in CSE(AI)</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-I am a Full Stack Developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+<!-- I am a Full Stack Developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. -->
 
 ![Hey there, I'm Aditya. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/gaurav-aditya/gaurav-aditya/raw/master/header.gif)
 
 [![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/adityagaurav1) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/gaurav-aditya?logo=GitHub&style=for-the-badge)](https://github.com/gaurav-aditya) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/gaurav-aditya?logo=github&style=for-the-badge)](https://github.com/gaurav-aditya) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/gaurav-aditya?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/gaurav-aditya)
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <div id="badges">
   <a href=":https://www.linkedin.com/in/aditya-prakash-42263b218![image](https://user-images.githubusercontent.com/110540811/221432088-bb5de96a-b542-452b-a7ff-1de29af5f930.png)
