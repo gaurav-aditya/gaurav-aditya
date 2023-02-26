@@ -38,7 +38,7 @@ I am a Full Stack Developer from India <img src="https://media.giphy.com/media/W
 <!-- https://komarev.com/ghpvc/?username=gaurav-aditya -->
 <img src="https://komarev.com/ghpvc/?username=gaurav-aditya &style=flat-square&color=blue" alt=""/>
 ### :fire: My Stats :
-<!-- https://github-readme-streak-stats.herokuapp.com/?user=gaurav-aditya -->
+https://github-readme-streak-stats.herokuapp.com/?user=gaurav-aditya
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gaurav-aditya&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
