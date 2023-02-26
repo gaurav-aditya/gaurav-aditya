@@ -3,6 +3,11 @@
 <h3 align="center">A 3rd year student at NIET Greater Noida in CSE(AI)</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 
 - 🔭 I’m currently working on **Full Stack development**
 
