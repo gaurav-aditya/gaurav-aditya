@@ -60,6 +60,5 @@ I am a Full Stack Developer from India <img src="https://media.giphy.com/media/W
 
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
