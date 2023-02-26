@@ -8,6 +8,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div id="badges">
+  <a href=":https://www.linkedin.com/in/aditya-prakash-42263b218![image](https://user-images.githubusercontent.com/110540811/221432088-bb5de96a-b542-452b-a7ff-1de29af5f930.png)
+">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://youtube.com/subhashpublicschool4922">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+ 
+</div>
 
 - 🔭 I’m currently working on **Full Stack development**
 
