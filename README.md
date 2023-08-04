@@ -67,4 +67,4 @@ I am a Full Stack Developer from India <img src="https://media.giphy.com/media/W
 
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-[![Stargazers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/stars/USERNAME/REPO_NAME)](https://github.com/USERNAME/REPO_NAME/stargazers)
+
