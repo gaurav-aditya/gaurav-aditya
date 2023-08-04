@@ -67,7 +67,4 @@ I am a Full Stack Developer from India <img src="https://media.giphy.com/media/W
 
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-[![Stargazers repo roster for @Amit27062002/Automate-Text-Bombing](https://reporoster.com/stars/Amit27062002/Automate-Text-Bombing)](https://github.com/Amit27062002/Automate-Text-Bombing/stargazers)
-
-
-[![Forkers repo roster for @FahimFBA/Automate-Text-Bombing](https://reporoster.com/forks/FahimFBA/Automate-Text-Bombing)](https://github.com/FahimFBA/Automate-Text-Bombing/network/members)
+[![Stargazers repo roster for @nastyox/Repo-Roster](https://reporoster.com/stars/nastyox/Repo-Roster)](https://github.com/nastyox/Repo-Roster/stargazers)
