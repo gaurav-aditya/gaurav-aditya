@@ -67,5 +67,6 @@ I am a Full Stack Developer from India <img src="https://media.giphy.com/media/W
 
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 [![Stargazers repo roster for @gaurav-aditya/gaurav-aditya](https://reporoster.com/stars/gaurav-aditya/gaurav-aditya)](https://github.com/gaurav-aditya/gaurav-aditya/stargazers)
 
