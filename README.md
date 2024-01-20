@@ -73,6 +73,7 @@
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
+<a href="https://86.48.2.177/developers/gaurav-aditya#country-badge">
 
 [![Stargazers repo roster for @gaurav-aditya/gaurav-aditya](https://reporoster.com/stars/gaurav-aditya/gaurav-aditya)](https://github.com/gaurav-aditya/gaurav-aditya/stargazers)
 
