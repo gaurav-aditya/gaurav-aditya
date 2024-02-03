@@ -5,10 +5,9 @@
 <h3 align="center">"Committing code and spreading smiles - one function at a time."</h3>
 
 <pre>            "Bridging the gap between front-end finesse and back-end power. Welcome to my full-stack playground!"  </pre>
-<pre>                                                          <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></pre>
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/adityagaurav1) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/gaurav-aditya?logo=GitHub&style=for-the-badge)](https://github.com/gaurav-aditya) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/gaurav-aditya?logo=github&style=for-the-badge)](https://github.com/gaurav-aditya) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/gaurav-aditya?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/gaurav-aditya)   <img src="https://komarev.com/ghpvc/?username=gaurav-aditya &style=flat-square&color=blue" alt=""/> 
-![Hey there, I'm Aditya. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/gaurav-aditya/gaurav-aditya/raw/master/header.gif)
+[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/adityagaurav01) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/gaurav-aditya?logo=GitHub&style=for-the-badge)](https://github.com/gaurav-aditya) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/gaurav-aditya?logo=github&style=for-the-badge)](https://github.com/gaurav-aditya) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/gaurav-aditya?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/gaurav-aditya)   <img src="https://komarev.com/ghpvc/?username=gaurav-aditya &style=flat-square&color=blue" alt=""/> 
+(https://github.com/gaurav-aditya/gaurav-aditya/raw/master/header.gif)
 
 
 <h1>
@@ -29,7 +28,7 @@
 
 - 🔭 I’m currently working on **Full Stack development**
 
-- 🌱 I’m currently learning **Django,Design pattern,Express,React**
+- 🌱 I’m currently learning **Django,React,Node.js**
 
 - 👯 I’m looking to collaborate on **Full stack development**
 
