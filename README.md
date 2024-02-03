@@ -2,10 +2,6 @@
 [![MasterHead](https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif)](https://gaurav-aditya.github.io)
 
 
-
-
-
-<h1 align="center">Hi 👋, I'm Aditya Prakash</h1>
 <h3 align="center">"Committing code and spreading smiles - one function at a time."</h3>
 
 <pre>            "Bridging the gap between front-end finesse and back-end power. Welcome to my full-stack playground!"  </pre>
