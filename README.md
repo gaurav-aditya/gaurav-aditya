@@ -7,11 +7,9 @@
 <pre>            "Bridging the gap between front-end finesse and back-end power. Welcome to my full-stack playground!"  </pre>
 
 [![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/adityagaurav01) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/gaurav-aditya?logo=GitHub&style=for-the-badge)](https://github.com/gaurav-aditya) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/gaurav-aditya?logo=github&style=for-the-badge)](https://github.com/gaurav-aditya) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/gaurav-aditya?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/gaurav-aditya)   <img src="https://komarev.com/ghpvc/?username=gaurav-aditya &style=flat-square&color=blue" alt=""/> 
-(https://github.com/gaurav-aditya/gaurav-aditya/raw/master/header.gif)
-
 
 <h1>
-  hey there
+  echoaditya
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
