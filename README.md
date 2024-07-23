@@ -40,7 +40,7 @@
 <!-- https://github-readme-streak-stats.herokuapp.com/?user=gaurav-aditya -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gaurav-aditya&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-aditya)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-aditya)](https://github.com/gaurav-aditya/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-aditya&layout=compact&theme=vision-friendly-dark)](https://github.com/gaurav-aditya/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 
