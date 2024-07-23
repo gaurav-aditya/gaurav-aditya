@@ -60,3 +60,8 @@
 
 [![Stargazers repo roster for @gaurav-aditya/gaurav-aditya](https://reporoster.com/stars/gaurav-aditya/gaurav-aditya)](https://github.com/gaurav-aditya/gaurav-aditya/stargazers)
 
+<h3 align="center">🏆 Github Stats</h3>   
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=gaurav-aditya&theme=tokyonight&hide_border=true&border_radius=50" height="160px" /><img src="https://streak-stats.demolab.com?user=gaurav-aditya&theme=tokyonight&hide_border=true&border_radius=50" height="160px" align="center" />
+</div>
+
