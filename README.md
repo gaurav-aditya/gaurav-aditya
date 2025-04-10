@@ -73,3 +73,124 @@
 ░▒▓████████▓▒░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░  ░▒▓█▓▒░      ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░ 
 </pre>
 </html>
+[![MasterHead](https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif)](https://github.com/vishalbhagat19)
+
+<h1 align="center">Hey there! 👋 I'm Vishal Bhagat</h1>
+<h3 align="center">"Committing code and spreading smiles - one function at a time."</h3>
+
+<pre align="center">
+    "Bridging the gap between front-end finesse and back-end power. 
+     Welcome to my full-stack playground!"
+</pre>
+
+---
+
+# 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **Full Stack Web Apps**
+- 🌱 I’m learning **Django, React, Node.js**
+- 👯 I’m open to **collaborations in open-source or full stack projects**
+- 💬 Ask me about **Web Dev, APIs, Cloud Deployments**
+- ⚡ Fun Fact: **I love debugging and I can solve a Rubik’s Cube in under 2 minutes**
+
+---
+
+# 📱 Connect With Me
+
+[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/adityagaurav01) 
+[![GitHub followers](https://img.shields.io/github/followers/vishalbhagat19?logo=GitHub&style=for-the-badge)](https://github.com/vishalbhagat19)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-prakash-42263b218)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/subhashpublicschool4922)
+
+---
+
+# 💻 Tech Stack:
+
+### 🧠 Languages:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🖼️ Frontend:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+### 🗄️ Databases:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+### ☁️ Deployment & Tools:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalbhagat19&theme=tokyonight&hide_border=false)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vishalbhagat19&theme=tokyonight&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalbhagat19&layout=compact&theme=tokyonight&hide_border=false)
+
+---
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vishalbhagat19&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vishalbhagat19&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+## 🚀 Featured Projects
+
+| Project        | Description                         | Tech Stack            |
+| -------------- | ----------------------------------- | --------------------- |
+| DevConnect     | Social platform for developers      | MERN, GraphQL         |
+| CodeVault      | Secure code snippet manager         | Django, AES-256       |
+| AI-Deploy      | ML model deployment platform        | Flask, Docker         |
+
+---
+
+### 🧠 Developer Mantra
+```python
+def code_life():
+    while True:
+        try:
+            code()
+            test()
+            deploy()
+        except BugFound:
+            debug()
+            learn()
+        except CoffeeEmpty:
+            refill()
+            continue
+        except MotivationLow:
+            watch_tech_talks()
+            return code_life()
