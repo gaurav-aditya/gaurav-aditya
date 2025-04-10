@@ -74,16 +74,60 @@
 </pre>
 </html>
 
-# 🚀 Welcome to My GitHub Universe! 🚀
+
+[![MasterHead](https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif)](https://gaurav-aditya.github.io)
+
+<h1 align="center">
+  Hi there, I'm Aditya! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<h3 align="center">"Committing code and spreading smiles - one function at a time."</h3>
+
+<pre align="center">"Bridging the gap between front-end finesse and back-end power. Welcome to my full-stack playground!"</pre>
+
+<div align="center">
+  
+[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/adityagaurav01) 
+[![GitHub followers](https://img.shields.io/github/followers/gaurav-aditya?logo=GitHub&style=for-the-badge)](https://github.com/gaurav-aditya) 
+[![GitHub Stars](https://img.shields.io/github/stars/gaurav-aditya?logo=github&style=for-the-badge)](https://github.com/gaurav-aditya) 
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/gaurav-aditya?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/gaurav-aditya) 
+<img src="https://komarev.com/ghpvc/?username=gaurav-aditya&style=flat-square&color=blue" alt=""/>
+
+</div>
 
 ```diff
 +---------------------------------------------------------------------+
-|  "Full-Stack Alchemist turning coffee into code since 2020"         |
+|  Full-Stack Developer | AI Enthusiast | Open Source Contributor     |
 +---------------------------------------------------------------------+
-
-<div align="center">
-Metrics
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-aditya&theme=react-dark&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="90%"/></div>
 
 <div align="center"> <a href="https://github.com/gaurav-aditya/DevConnect"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-aditya&repo=DevConnect&theme=radical" /> </a> <a href="https://github.com/gaurav-aditya/AI-Deploy"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-aditya&repo=AI-Deploy&theme=radical" /> </a> </div>
+
+📅 Daily Coding Rhythm
+text
+Copy
+🌅 Morning    ████████████████████░░░░░   70%   Frontend Development
+🏙️ Daytime    ██████████░░░░░░░░░░░░░░░   40%   Backend Architecture
+🌃 Evening    ████████████████░░░░░░░░░   60%   Learning New Tech
+🌌 Night      █████░░░░░░░░░░░░░░░░░░░░   20%   Open Source Contributions
+🤝 Connect With Me
+<div align="center">
+LinkedIn
+Twitter
+YouTube
+Email
+
+</div>
+
+while True:
+    try:
+        code()
+        deploy()
+        celebrate()
+    except BugFound:
+        debug()
+        learn()
+    except CoffeeEmpty:
+        refill()
