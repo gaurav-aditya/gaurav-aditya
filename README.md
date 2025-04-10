@@ -73,3 +73,17 @@
 ░▒▓████████▓▒░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░  ░▒▓█▓▒░      ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░ 
 </pre>
 </html>
+
+# 🚀 Welcome to My GitHub Universe! 🚀
+
+```diff
++---------------------------------------------------------------------+
+|  "Full-Stack Alchemist turning coffee into code since 2020"         |
++---------------------------------------------------------------------+
+
+<div align="center">
+Metrics
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-aditya&theme=react-dark&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="90%"/></div>
+
+<div align="center"> <a href="https://github.com/gaurav-aditya/DevConnect"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-aditya&repo=DevConnect&theme=radical" /> </a> <a href="https://github.com/gaurav-aditya/AI-Deploy"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-aditya&repo=AI-Deploy&theme=radical" /> </a> </div>
