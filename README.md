@@ -52,6 +52,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/echoaditya"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/echoaditya" /></a></p><br><br >
 
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gaurav-aditya&theme=onedark&row=2&column=3&margin-w=15&margin-h=15" alt="gaurav-aditya's trophies" />
+</div>
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <a href="https://86.48.2.177/developers/gaurav-aditya#country-badge">
@@ -73,74 +77,3 @@
 ░▒▓████████▓▒░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░  ░▒▓█▓▒░      ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░ 
 </pre>
  </html>
-
-<div align="center" style="max-width: 800px; margin: 0 auto; padding: 20px; background: #0d1117; border-radius: 10px; margin-bottom: 20px;">
-  <h3>👨‍💻 About Me</h3>
-  <ul style="text-align: left; list-style-type: none; padding-left: 0;">
-    <li>🔭 I'm currently working on <strong>Full Stack development</strong></li>
-    <li>🌱 I'm currently learning <strong>Django, React, Node.js</strong></li>
-    <li>👯 I'm looking to collaborate on <strong>Full stack development</strong></li>
-    <li>💬 Ask me about <strong>Technical stuff</strong></li>
-    <li>⚡ Fun fact: <strong>I love to learn new skills</strong></li>
-  </ul>
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gaurav-aditya&theme=onedark&row=2&column=3&margin-w=15&margin-h=15" alt="gaurav-aditya's trophies" />
-</div>
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-aditya&theme=dark&background=000000" alt="GitHub Streak" style="max-width: 500px;"/>
-  
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=gaurav-aditya&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=50" height="160px" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-aditya&layout=compact&theme=vision-friendly-dark" height="160px" alt="Top Languages"/>
-  </div>
-</div>
-
-## 🛠️ Tech Stack
-<div align="center" style="max-width: 800px; margin: 0 auto;">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </div>
-</div>
-
-## ✨ Support
-<div align="center" style="margin: 20px 0;">
-  <a href="https://www.buymeacoffee.com/echoaditya">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
-  </a>
-</div>
-
-## 😄 Fun Section
-<div align="center" style="max-width: 500px; margin: 0 auto;">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="border-radius: 8px;"/>
-</div>
-
-<div align="center" style="margin-top: 30px;">
-  <img src="https://github.com/gaurav-aditya/gaurav-aditya/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  <html>
-  
-  </html>
-</div>
