@@ -73,33 +73,35 @@
 ░▒▓████████▓▒░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░  ░▒▓█▓▒░      ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░ 
 </pre>
  </html>
- [![MasterHead](https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif)](https://gaurav-aditya.github.io)
 
-<h3 align="center">"Committing code and spreading smiles - one function at a time."</h3>
 
-<pre align="center">
-"Bridging the gap between front-end finesse and back-end power. 
-            Welcome to my full-stack playground!"  
-</pre>
 
-<p align="center">
-  <a href="https://twitter.com/adityagaurav01">
-    <img src="https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter"/>
-  </a>
-  <a href="https://github.com/gaurav-aditya">
-    <img src="https://img.shields.io/github/followers/gaurav-aditya?logo=GitHub&style=for-the-badge"/>
-    <img src="https://img.shields.io/github/stars/gaurav-aditya?logo=github&style=for-the-badge"/>
-    <img src="https://img.shields.io/github/sponsors/gaurav-aditya?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=gaurav-aditya&style=for-the-badge&color=green" alt="Profile Views"/>
-</p>
+ <div align="center">
+  <img src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif" alt="MasterHead" style="width: 100%; max-width: 1000px;"/>
+</div>
 
 <h1 align="center">
   <a href='https://linktr.ee/echoaditya'>echoaditya</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<h3 align="center">"Committing code and spreading smiles - one function at a time."</h3>
+
 <div align="center">
+  <pre style="background: #1a1a1a; padding: 15px; border-radius: 8px; max-width: 800px; margin: 0 auto;">
+    "Bridging the gap between front-end finesse and back-end power. Welcome to my full-stack playground!"
+  </pre>
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  [![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/adityagaurav01)
+  [![GitHub followers](https://img.shields.io/github/followers/gaurav-aditya?logo=GitHub&style=for-the-badge)](https://github.com/gaurav-aditya)
+  [![GitHub Stars](https://img.shields.io/github/stars/gaurav-aditya?logo=github&style=for-the-badge)](https://github.com/gaurav-aditya)
+  [![GitHub Sponsors](https://img.shields.io/github/sponsors/gaurav-aditya?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/gaurav-aditya)
+  <img src="https://komarev.com/ghpvc/?username=gaurav-aditya&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div align="center" style="margin: 20px 0;">
   <a href="https://www.linkedin.com/in/aditya-prakash-42263b218">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -108,79 +110,81 @@
   </a>
 </div>
 
----
+<div align="center" style="max-width: 800px; margin: 0 auto; padding: 20px; background: #0d1117; border-radius: 10px; margin-bottom: 20px;">
+  <h3>👨‍💻 About Me</h3>
+  <ul style="text-align: left; list-style-type: none; padding-left: 0;">
+    <li>🔭 I'm currently working on <strong>Full Stack development</strong></li>
+    <li>🌱 I'm currently learning <strong>Django, React, Node.js</strong></li>
+    <li>👯 I'm looking to collaborate on <strong>Full stack development</strong></li>
+    <li>💬 Ask me about <strong>Technical stuff</strong></li>
+    <li>⚡ Fun fact: <strong>I love to learn new skills</strong></li>
+  </ul>
+</div>
 
-### 👨‍💻 About Me
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gaurav-aditya&theme=onedark&row=2&column=3&margin-w=15&margin-h=15" alt="gaurav-aditya's trophies" />
+</div>
 
-- 🔭 I’m currently working on **Full Stack Development**
-- 🌱 Learning: **Django, React, Node.js**
-- 👯 Looking to collaborate on **MERN/Django stack projects**
-- 💬 Ask me about anything **tech-related**
-- ⚡ Fun fact: **I love learning new skills**
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-aditya&theme=dark&background=000000" alt="GitHub Streak" style="max-width: 500px;"/>
+  
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=gaurav-aditya&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=50" height="160px" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-aditya&layout=compact&theme=vision-friendly-dark" height="160px" alt="Top Languages"/>
+  </div>
+</div>
 
----
+## 🛠️ Tech Stack
+<div align="center" style="max-width: 800px; margin: 0 auto;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  </div>
+</div>
 
-### :fire: My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gaurav-aditya&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-aditya&layout=compact&theme=vision-friendly-dark)](https://github.com/gaurav-aditya/github-readme-stats)
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-</p>
-
----
-
-### ☕ Support Me
-
-<p>
+## ✨ Support
+<div align="center" style="margin: 20px 0;">
   <a href="https://www.buymeacoffee.com/echoaditya">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/>
   </a>
-</p>
-
----
-
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-[![Stargazers repo roster for @gaurav-aditya/gaurav-aditya](https://reporoster.com/stars/gaurav-aditya/gaurav-aditya)](https://github.com/gaurav-aditya/gaurav-aditya/stargazers)
-
----
-
-<h3 align="center">🏆 Github Stats</h3>   
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurav-aditya&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=50" height="160px" />
-  <img src="https://streak-stats.demolab.com?user=gaurav-aditya&theme=tokyonight&hide_border=true&border_radius=50" height="160px" />
 </div>
 
----
+## 😄 Fun Section
+<div align="center" style="max-width: 500px; margin: 0 auto;">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="border-radius: 8px;"/>
+</div>
 
-<pre align="center"> 
-░▒▓████████▓▒░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░ 
-░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░     ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓██████▓▒░░▒▓█▓▒░      ░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░     ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓████████▓▒░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░ 
-</pre>
+<div align="center" style="margin-top: 30px;">
+  <img src="https://github.com/gaurav-aditya/gaurav-aditya/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <html>
+    <pre style="background: #1a1a1a; padding: 15px; border-radius: 8px; max-width: 800px; margin: 0 auto; color: #fff; font-family: monospace;">
+░▒▓████████▓▒░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░  
+░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░  ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░     ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░  ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓██████▓▒░░▒▓█▓▒░      ░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░  ░▒▓█▓▒░    ░▒▓██████▓▒░░▒▓████████▓▒░ 
+░▒▓█▓▒░     ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░  ░▒▓█▓▒░      ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░  ░▒▓█▓▒░      ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░ 
+░▒▓████████▓▒░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░  ░▒▓█▓▒░      ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░ 
+    </pre>
+  </html>
+</div>
