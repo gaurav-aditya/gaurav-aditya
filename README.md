@@ -75,37 +75,87 @@
 </html>
 
 
-[![MasterHead](https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif)](https://gaurav-aditya.github.io)
-
-<h1 align="center">
-  Hi there, I'm Aditya! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<h3 align="center">"Committing code and spreading smiles - one function at a time."</h3>
-
-<pre align="center">"Bridging the gap between front-end finesse and back-end power. Welcome to my full-stack playground!"</pre>
-
 <div align="center">
-  
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/adityagaurav01) 
-[![GitHub followers](https://img.shields.io/github/followers/gaurav-aditya?logo=GitHub&style=for-the-badge)](https://github.com/gaurav-aditya) 
-[![GitHub Stars](https://img.shields.io/github/stars/gaurav-aditya?logo=github&style=for-the-badge)](https://github.com/gaurav-aditya) 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/gaurav-aditya?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/gaurav-aditya) 
-<img src="https://komarev.com/ghpvc/?username=gaurav-aditya&style=flat-square&color=blue" alt=""/>
-
+  <img src="https://www.codecorners.com/wp-content/uploads/2018/05/senior-front-end-developer-openings-1.gif" alt="MasterHead" width="100%"/>
 </div>
 
+<h1 align="center">
+  Hello World! I'm Aditya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<h3 align="center">"Committing code and spreading smiles - one function at a time"</h3>
+
 ```diff
-+---------------------------------------------------------------------+
-|  Full-Stack Developer | AI Enthusiast | Open Source Contributor     |
-+---------------------------------------------------------------------+
++-----------------------------------------------------------------------+
+| Full-Stack Developer • Open Source Contributor • Tech Enthusiast      |
++-----------------------------------------------------------------------+
+
+
+<div align="center">
+Twitter Follow
+GitHub followers
+LinkedIn
+Visitors
+
+</div>
+👨‍💻 About Me
+🔭 Currently working on AI-powered web applications
+
+🌱 Learning Advanced React, Django, and DevOps
+
+👯 Looking to collaborate on open-source projects
+
+💬 Ask me about JavaScript, Python, or web development
+
+⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+
+🛠 Tech Stack
+Frontend
+HTML5
+CSS3
+JavaScript
+React
+Next JS
+TailwindCSS
+
+Backend
+NodeJS
+Express.js
+Django
+Python
+
+Databases
+MongoDB
+PostgreSQL
+
+DevOps & Tools
+Docker
+AWS
+Git
+GitHub
+
+📊 GitHub Stats
+<div align="center">
+GitHub Streak
+
+Top Langs
+
+GitHub Stats
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-aditya&theme=react-dark&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="90%"/></div>
+🏆 GitHub Trophies
+trophy
 
+🚀 Featured Projects
+<div align="center">
+Project	Description	Tech Stack
+DevConnect	Social platform for developers	MERN, GraphQL
+CodeVault	Secure code snippet manager	Django, AES-256
+AI-Deploy	ML model deployment platform	Flask, Docker
+</div>
+🌟 Pinned Repositories
 <div align="center"> <a href="https://github.com/gaurav-aditya/DevConnect"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-aditya&repo=DevConnect&theme=radical" /> </a> <a href="https://github.com/gaurav-aditya/AI-Deploy"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-aditya&repo=AI-Deploy&theme=radical" /> </a> </div>
-
-📅 Daily Coding Rhythm
+📅 Daily Development Breakdown
 text
 Copy
 🌅 Morning    ████████████████████░░░░░   70%   Frontend Development
@@ -117,17 +167,39 @@ Copy
 LinkedIn
 Twitter
 YouTube
+Discord
 Email
 
 </div>
+☕ Support My Work
+<div align="center">
+BuyMeACoffee
+GitHub Sponsors
+PayPal
 
-while True:
-    try:
-        code()
-        deploy()
-        celebrate()
-    except BugFound:
-        debug()
-        learn()
-    except CoffeeEmpty:
-        refill()
+</div>
+🎶 Currently Coding To
+Spotify
+
+🤖 Developer Mantra
+python
+Copy
+def code_life():
+    while True:
+        try:
+            code()
+            test()
+            deploy()
+        except BugFound:
+            debug()
+            learn()
+        except CoffeeEmpty:
+            refill()
+            continue
+        except MotivationLow:
+            watch_tech_talks()
+            return code_life()
+<div align="center"> <img src="https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.gif" width="200"/> <p>Thanks for visiting! Let's create something amazing together.</p>
+Snake animation
+
+</div> ```
