@@ -237,3 +237,8 @@ https://profile-counter.glitch.me/gaurav-aditya/count.svg
 ⭐ Don't forget to star some repositories if you like my work!
 
 </div> `
+
+
+<div align="center">
+🏆 GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=gaurav-aditya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide_title=false" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-aditya&theme=radical&hide_border=true&fire=FF7F50&ring=FF7F50" alt="GitHub Streak" width="48%" />
