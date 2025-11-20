@@ -19,8 +19,9 @@
   <a href="https://youtube.com/subhashpublicschool4922">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
- 
+ <a>
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gaurav-aditya.github.io)
+ </a>
 </div>
 
 - 🔭 I’m currently working on **Full Stack development**
@@ -79,17 +80,15 @@ https://profile-counter.glitch.me/gaurav-aditya/count.svg
 </div>
 
 <div align="center">
-💼 Professional Networks
+
 https://img.shields.io/badge/LinkedIn-Connect%2520Professionally-0A66C2?style=for-the-badge&logo=linkedin
 https://img.shields.io/badge/Twitter-Follow%2520for%2520Updates-1DA1F2?style=for-the-badge&logo=twitter
 https://img.shields.io/badge/GitHub-Collaborate%2520on%2520Projects-181717?style=for-the-badge&logo=github
 
-📧 Direct Communication
 https://img.shields.io/badge/Email-Send%2520Message-D14836?style=for-the-badge&logo=gmail&logoColor=white
 https://img.shields.io/badge/Telegram-Message%2520Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white
 https://img.shields.io/badge/Discord-Join%2520Community-5865F2?style=for-the-badge&logo=discord&logoColor=white
 
-🌐 Portfolio & Links
 https://img.shields.io/badge/Portfolio-Visit%2520My%2520Work-FF7139?style=for-the-badge&logo=google-chrome
 https://img.shields.io/badge/Blog-Read%2520My%2520Thoughts-FF6B6B?style=for-the-badge&logo=medium
 https://img.shields.io/badge/Resume-Download%2520CV-4285F4?style=for-the-badge&logo=googledrive
