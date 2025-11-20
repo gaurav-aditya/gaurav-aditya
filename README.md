@@ -66,12 +66,12 @@
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=gaurav-aditya&theme=tokyonight&hide_border=true&border_radius=50" height="160px" /><img src="https://streak-stats.demolab.com?user=gaurav-aditya&theme=tokyonight&hide_border=true&border_radius=50" height="160px" align="center" />
 </div>
-<div>
-## 🔗 Links
+
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gaurav-aditya.github.io)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/echoaditya)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-</div>
+
 <div align="center">
 🎉 Thank You for Visiting!
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
