@@ -95,6 +95,104 @@ https://profile-counter.glitch.me/gaurav-aditya/count.svg
 
 </div>
 
+## 📚 Learning Path & Roadmap
+text
+
+### 🎯 My Learning Journey:
+───────────────────────────────────────────────────
+Frontend Mastery  →  Backend Excellence  →  DevOps & Cloud  →  AI/ML  
+&nbsp;&nbsp;&nbsp;&nbsp;↓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↓
+
+• React Ecosystem  
+• Vue.js Framework  
+• Modern CSS  
+
+• Node.js & Express  
+• Django & Python  
+• Database Design  
+
+• AWS Services  
+• Docker & K8s  
+• CI/CD Pipelines  
+
+• Machine Learning  
+• System Design  
+• Microservices
+
+## 📊 Weekly Development Breakdown
+text
+
+🐍 Python        ████████████████████░░░░   85%  
+🟨 JavaScript    ██████████████████████░░   90%  
+☕ Java          ████████████████████████   95%  
+🎨 Frontend      █████████████████████░░░   88%  
+⚡ Backend       ████████████████████░░░░   80%  
+🐳 DevOps        █████████████████░░░░░░░   75%  
+📱 Mobile        █████████████░░░░░░░░░░░   65%
+
+
+## 🎵 Now Playing & Vibes
+
+<div align="center">
+  <img src="https://spotify-now-playing-git-main-skn0tt.vercel.app/api/spotify?background_color=0d1117&border_color=FF7F50&color=FF7F50" />
+</div>
+
+
+## 🎨 Design & Creative Skills
+
+<div align="center">
+  <img src="https://img.shields.io/badge/UI/UX%20Design-Expert-FF6B6B?style=for-the-badge&logo=adobecreativecloud" />
+  <img src="https://img.shields.io/badge/Figma-Advanced-FF7139?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/Photoshop-Professional-001E36?style=for-the-badge&logo=adobephotoshop" />
+  <img src="https://img.shields.io/badge/Wireframing-Prototyping-6A0DAD?style=for-the-badge&logo=sketch" />
+</div>
+
+## 🤝 Community & Collaboration
+
+<div align="center">
+
+### 🌟 Stargazers & Forks
+<img src="https://reporoster.com/stars/dark/gaurav-aditya/gaurav-aditya" />
+<br/>
+<img src="https://reporoster.com/forks/dark/gaurav-aditya/gaurav-aditya" />
+
+### 💡 Problem Solving Platforms
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black" />
+
+</div>
+
+## ☕ Support My Work
+
+<div align="center">
+
+### 🎁 Buy Me A Coffee  
+<a href="https://www.buymeacoffee.com/echoaditya">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+</a>
+
+### 💖 GitHub Sponsors  
+<img src="https://img.shields.io/github/sponsors/gaurav-aditya?style=for-the-badge&logo=githubsponsors&label=Sponsor&color=EA4AAA" />
+
+</div>
+
+## 🎭 Fun Section
+
+<div align="center">
+
+### 😄 Developer Jokes  
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0d1117" alt="Jokes Card" />
+
+### 🐍 Contribution Snake  
+<img src="https://github.com/gaurav-aditya/gaurav-aditya/blob/output/github-contribution-grid-snake.svg" />
+
+### 🎲 Random Dev Quote  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+</div>
+
+
 ## Feedback
 
 If you have any feedback, please reach out to me at echoaditya@proton.me    
