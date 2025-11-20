@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on **Full Stack development**
 
-- 🌱 I’m currently learning **Django,React,Node.js**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 👯 I’m looking to collaborate on **Full stack development**
 
@@ -66,15 +66,40 @@
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=gaurav-aditya&theme=tokyonight&hide_border=true&border_radius=50" height="160px" /><img src="https://streak-stats.demolab.com?user=gaurav-aditya&theme=tokyonight&hide_border=true&border_radius=50" height="160px" align="center" />
 </div>
- <html>   
-   <pre> 
-░▒▓████████▓▒░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░ ░▒▓██████▓▒░░▒▓███████▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░  
-░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░  ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░     ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░  ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓██████▓▒░░▒▓█▓▒░      ░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░  ░▒▓█▓▒░    ░▒▓██████▓▒░░▒▓████████▓▒░ 
-░▒▓█▓▒░     ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░  ░▒▓█▓▒░      ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓█▓▒░     ░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░  ░▒▓█▓▒░      ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░ 
-░▒▓████████▓▒░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░░▒▓██████▓▒░░▒▓█▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░  ░▒▓█▓▒░      ░▒▓█▓▒░   ░▒▓█▓▒░░▒▓█▓▒░ 
-</pre>
-<!--   <h1>hi</h1> -->
- </html>
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gaurav-aditya.github.io)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/echoaditya)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+<div align="center">
+🎉 Thank You for Visiting!
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+"Keep coding, keep growing! 🌱"
+<p>Feel free to explore my repositories and don't hesitate to reach out for collaboration! 🚀</p>
+https://profile-counter.glitch.me/gaurav-aditya/count.svg
+
+</div>
+
+📬 Let's Connect & Collaborate
+<div align="center">
+💼 Professional Networks
+https://img.shields.io/badge/LinkedIn-Connect%2520Professionally-0A66C2?style=for-the-badge&logo=linkedin
+https://img.shields.io/badge/Twitter-Follow%2520for%2520Updates-1DA1F2?style=for-the-badge&logo=twitter
+https://img.shields.io/badge/GitHub-Collaborate%2520on%2520Projects-181717?style=for-the-badge&logo=github
+
+📧 Direct Communication
+https://img.shields.io/badge/Email-Send%2520Message-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/Telegram-Message%2520Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white
+https://img.shields.io/badge/Discord-Join%2520Community-5865F2?style=for-the-badge&logo=discord&logoColor=white
+
+🌐 Portfolio & Links
+https://img.shields.io/badge/Portfolio-Visit%2520My%2520Work-FF7139?style=for-the-badge&logo=google-chrome
+https://img.shields.io/badge/Blog-Read%2520My%2520Thoughts-FF6B6B?style=for-the-badge&logo=medium
+https://img.shields.io/badge/Resume-Download%2520CV-4285F4?style=for-the-badge&logo=googledrive
+
+</div>
+
+## Feedback
+
+If you have any feedback, please reach out to me at echoaditya@proton.me    
+
