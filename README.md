@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
  
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gaurav-aditya.github.io)
 </div>
 
 - 🔭 I’m currently working on **Full Stack development**
@@ -67,10 +68,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=gaurav-aditya&theme=tokyonight&hide_border=true&border_radius=50" height="160px" /><img src="https://streak-stats.demolab.com?user=gaurav-aditya&theme=tokyonight&hide_border=true&border_radius=50" height="160px" align="center" />
 </div>
 
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gaurav-aditya.github.io)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/echoaditya)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 <div align="center">
 🎉 Thank You for Visiting!
