@@ -46,6 +46,80 @@
 
 ![](https://komarev.com/ghpvc/?username=gaurav-aditya&color=green)
 
+## 💻 Programming Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
+
+## 🌐 Frontend Development
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</div>
+## 🚀 Backend Development
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+</div>
+## 🗄️ Databases & Storage
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</div>
+## 🛠️ Tools & Platforms
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+</div>
+## 📊 GitHub Analytics & Metrics
+
+<div align="center">
+
+### 🏆 GitHub Statistics  
+<img src="https://github-readme-stats.vercel.app/api?username=gaurav-aditya&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-aditya&theme=radical&hide_border=true&fire=FF7F50&ring=FF7F50" width="48%" />
+
+### 💻 Language Proficiency  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-aditya&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,scss" width="48%" /> 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=gaurav_aditya&layout=compact&theme=radical&hide_border=true&range=all_time" width="48%" />
+
+### 📈 Activity Graph  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-aditya&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=FF7F50&line=FF7F50&point=FFFFFF" />
+
+</div>
+## 🏆 GitHub Trophies & Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gaurav-aditya&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-bg=true" />
+</div>
+## 📌 Featured Projects
+
+<div align="center">
+
+### 🔥 Top Pinned Repositories  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-aditya&repo=your-repo-1&theme=radical&show_owner=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-aditya&repo=your-repo-2&theme=radical&show_owner=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-aditya&repo=your-repo-3&theme=radical&show_owner=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-aditya&repo=your-repo-4&theme=radical&show_owner=true" />
+
+</div>
 
 ---
 
