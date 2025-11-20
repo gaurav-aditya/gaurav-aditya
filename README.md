@@ -33,7 +33,7 @@
 
 ---
 
-# 🌐 Connect With Me (Horizontal Layout)
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -153,7 +153,7 @@
 
 ### 💻 Language Proficiency
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-aditya&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,scss" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=gaurav_aditya&layout=compact&theme=radical&hide_border=true&range=all_time" width="48%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gaurav_aditya&layout=compact&theme=radical&hide_border=true&range=all_time" width="48%" /> -->
 
 ### 📈 Activity Graph
 [![Gaurav's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=gaurav-aditya&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/gaurav-aditya)
@@ -166,8 +166,11 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  [![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurav-aditya&show_icons=true&theme=radical)](https://github.com/gaurav-aditya)
+  <a href="https://github.com/gaurav-aditya">
+    <img src="https://github-readme-stats.vercel.app/api?username=gaurav-aditya&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Gaurav's GitHub stats" />
+  </a>
 </div>
+
 
 
 ---
@@ -179,7 +182,7 @@
 ### 🔥 Top Pinned Repositories
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-aditya&repo=Computer-Automation&theme=radical&show_owner=true" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-aditya&repo=Blog-Application-Using-Mern-Stack&theme=radical&show_owner=true" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-aditya&school-management-system&theme=radical&show_owner=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-aditya&repo=school-management-system&theme=radical&show_owner=true" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=gaurav-aditya&repo=subhashpublicschool&theme=radical&show_owner=true" />
 
 </div>
@@ -207,11 +210,7 @@ Frontend Mastery → Backend Excellence → DevOps & Cloud → AI/ML
 • System Design  
 • Microservices  
 
----
 
-# 📊 Weekly Development Breakdown
-
----
 
 # 🎵 Now Playing
 
@@ -271,8 +270,8 @@ Frontend Mastery → Backend Excellence → DevOps & Cloud → AI/ML
 ### 😄 Developer Jokes
 <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0d1117" />
 
-### 🐍 Contribution Snake
-<img src="https://raw.githubusercontent.com/gaurav-aditya/gaurav-aditya/output/github-contribution-grid-snake.svg" />
+
+<!-- <img src="https://raw.githubusercontent.com/gaurav-aditya/gaurav-aditya/output/github-contribution-grid-snake.svg" /> -->
 
 ### 🎲 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
@@ -296,8 +295,8 @@ If you have any feedback, feel free to reach me at **echoaditya@proton.me**
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=gaurav-aditya&color=blue)
-[![Profile Views](https://u8views.com/api/v1/github/profiles/gaurav-aditya/views/day-week-month-total-count.svg)](https://u8views.com/github/YOUR_USER)
+---![](https://komarev.com/ghpvc/?username=gaurav-aditya&color=blue)
+[![Profile Views](https://u8views.com/api/v1/github/profiles/gaurav-aditya/views/day-week-month-total-count.svg)](https://u8views.com/github/gaurav-aditya)
 ![](https://github-visitor-counter-tau.vercel.app/api?username=gaurav-aditya)
 
 
