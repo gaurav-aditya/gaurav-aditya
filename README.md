@@ -155,11 +155,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-aditya&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,scss" width="48%" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gaurav_aditya&layout=compact&theme=radical&hide_border=true&range=all_time" width="48%" /> -->
 
-### 📈 Activity Graph
-[![Gaurav's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=gaurav-aditya&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/gaurav-aditya)
-
-
-</div>
 
 ---
 
@@ -247,19 +242,20 @@ Frontend Mastery → Backend Excellence → DevOps & Cloud → AI/ML
 
 ---
 
-# ☕ Support My Work
+## ☕ Support My Work
 
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/echoaditya">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
-</a>
+  <a href="https://www.buymeacoffee.com/echoaditya" style="display: inline-block; margin-right: 10px;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
 
-<br/><br/>
-
-<img src="https://img.shields.io/github/sponsors/gaurav-aditya?style=for-the-badge&logo=githubsponsors&label=Sponsor&color=EA4AAA" />
+  <a href="https://github.com/sponsors/gaurav-aditya" style="display: inline-block; margin-left: 10px;">
+    <img src="https://img.shields.io/github/sponsors/gaurav-aditya?style=for-the-badge&logo=githubsponsors&label=Sponsor&color=EA4AAA" alt="GitHub Sponsors" />
+  </a>
 
 </div>
+
 
 ---
 
@@ -295,8 +291,8 @@ If you have any feedback, feel free to reach me at **echoaditya@proton.me**
 
 <br/>
 
----![](https://komarev.com/ghpvc/?username=gaurav-aditya&color=blue)
-[![Profile Views](https://u8views.com/api/v1/github/profiles/gaurav-aditya/views/day-week-month-total-count.svg)](https://u8views.com/github/gaurav-aditya)
+![](https://komarev.com/ghpvc/?username=gaurav-aditya&color=blue)
+
 ![](https://github-visitor-counter-tau.vercel.app/api?username=gaurav-aditya)
 
 
