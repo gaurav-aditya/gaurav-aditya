@@ -82,22 +82,15 @@ https://profile-counter.glitch.me/gaurav-aditya/count.svg
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-
 [![Twitter](https://img.shields.io/badge/Twitter-Follow%20for%20Updates-1DA1F2?style=for-the-badge&logo=twitter)](YOUR_TWITTER_URL)
-
 [![GitHub](https://img.shields.io/badge/GitHub-Collaborate%20on%20Projects-181717?style=for-the-badge&logo=github)](YOUR_GITHUB_URL)
-
 [![Email](https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
-
 [![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_URL)
-
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_INVITE)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-FF7139?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO_URL)
-
 [![Blog](https://img.shields.io/badge/Blog-Read%20My%20Thoughts-FF6B6B?style=for-the-badge&logo=medium)](YOUR_BLOG_URL)
-
 [![Resume](https://img.shields.io/badge/Resume-Download%20CV-4285F4?style=for-the-badge&logo=googledrive)](YOUR_RESUME_LINK)
+
 
 
 </div>
