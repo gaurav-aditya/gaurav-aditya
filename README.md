@@ -90,7 +90,7 @@
 - 🤔 Looking for help with: **Cloud Architecture & System Design**
 - 💬 Ask me about: **Web Development, JS, Python, Tech Careers**
 - 📫 Email: **echoaditya@proton.me**, **adityaprakash6986@gmail.com**
-- ⚡ Fun fact: *Every bug is a feature in disguise!* 🐛✨
+- ⚡ Fun fact: *Every bug is a feature in disguise* 🐛✨
 
 ---
 
